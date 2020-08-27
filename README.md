@@ -27,4 +27,4 @@ face_cascade
 #### And result ...
 
 
-<iframe width="900" height="506" src="https://www.youtube.com/embed/CqMTrpTK-O8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=CqMTrpTK-O8
