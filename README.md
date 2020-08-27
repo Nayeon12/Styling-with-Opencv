@@ -27,4 +27,5 @@ face_cascade
 #### And result ...
 
 
+https://velog.io/@nayeon_p00/OpenCV-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B81-step-4-FINAL
 https://www.youtube.com/watch?v=CqMTrpTK-O8
